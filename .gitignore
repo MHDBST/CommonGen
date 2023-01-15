@@ -18,3 +18,4 @@ evaluation/data_analysis/conceptnet-assertions-5.7.0.csv
 methods/fairseq_story/fairseq_local_backup/
 evaluation/BERTScore/tmp/bert-cased-pretrained-cache/
 methods/fairseq_story/fairseq_local/leven_checkpoints_simple/
+evaluation/jdk-19.0.1
